@@ -8,8 +8,8 @@ Create a db.json file
 Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
 
 demo:
-https://my-json-server.typicode.com/arun567/rest-sample
+https://my-json-server.typicode.com/sureshbakshi/rest-sample
 
 Available resources:
-https://my-json-server.typicode.com/arun567/rest-sample/db
+https://my-json-server.typicode.com/sureshbakshi/rest-sample/db
 
