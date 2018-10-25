@@ -4,6 +4,31 @@
 	}, {
 		"dates": []
 	}],
+	"GetDeviceTypes": [{
+			"device_count": "1",
+			"device_type": "DST",
+			"devices": [{
+				"device_id": "24874772dec54326af4d79b3fd38e9d1",
+				"device_name": "DST"
+			}]
+		},
+		{
+			"device_count": "1",
+			"device_type": "FCI5008",
+			"devices": [{
+				"device_id": "5ac169562b9249e58bedbc8c01cb523f",
+				"device_name": "Test Device"
+			}]
+		},
+		{
+			"device_count": "1",
+			"device_type": "KAITERRA",
+			"devices": [{
+				"device_id": "9b97e54ee6a74c4fbcd0aef3df5f03f8",
+				"device_name": "Kaiterra 3877"
+			}]
+		}
+	],
 	"getYearCalendarReport1": [{
 			"dates": [{
 				"date": "01-01-2018",
