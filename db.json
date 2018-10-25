@@ -10,6 +10,9 @@
 			"devices": [{
 				"device_id": "24874772dec54326af4d79b3fd38e9d1",
 				"device_name": "DST"
+			},{
+				"device_id": "24874772dec54326af4d79b3fd38e9d2",
+				"device_name": "DST"
 			}]
 		},
 		{
