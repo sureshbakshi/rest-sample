@@ -5,7 +5,7 @@
 		"dates": []
 	}],
 	"GetDeviceTypes": [{
-			"device_count": "1",
+			"device_count": "2",
 			"device_type": "DST",
 			"devices": [{
 				"device_id": "24874772dec54326af4d79b3fd38e9d1",
