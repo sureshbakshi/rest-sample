@@ -1,0 +1,507 @@
+{
+	"getYearCalendarReport": [{
+		"dates": []
+	}, {
+		"dates": []
+	}],
+	
+        "taskList":[  
+               {   
+                  "id":"471",
+                  "createdBy":{  
+                     "id":"1608",
+                     "firstName":"Myday",
+                     "lastName":"1",
+                     "email":"myday1@drreddys.com",
+                     "department":"ITBPE",
+                     "profileLink":null
+                  },
+                  "createdDate":1544075675000,
+                  "modifiedBy":{  
+                     "id":"1608",
+                     "firstName":"Myday",
+                     "lastName":"1",
+                     "email":"myday1@drreddys.com",
+                     "department":"ITBPE",
+                     "profileLink":null
+                  },
+                  "modifiedDate":1544075675000,
+                  "status":null,
+                  "title":"Testing the details",
+                  "description":"Description adding from Sravya, logged in mac chrome browser",
+                  "priority":0,
+                  "startDate":null,
+                  "dueDate":1544076060000,
+                  "notes":"<ul>\n  <li><em><strong>Notes</strong></em><em> adding from </em><u><em>Sravya</em></u><em>, logged in mac chrome browser</em></li>\n</ul>",
+                  "assignedTo":[  
+                     {  
+                        "id":"1608",
+                        "firstName":"Myday",
+                        "lastName":"1",
+                        "email":"myday1@drreddys.com",
+                        "department":"ITBPE",
+                        "profileLink":null
+                     },
+                     {  
+                        "id":"1612",
+                        "firstName":"Myday",
+                        "lastName":"2",
+                        "email":"myday2@drreddys.com",
+                        "department":"ITBPE",
+                        "profileLink":null
+                     },
+                     {  
+                        "id":"1613",
+                        "firstName":"Sravya",
+                        "lastName":"Guda",
+                        "email":"sravyaguda@drreddys.com",
+                        "department":"Mobility Delivery",
+                        "profileLink":null
+                     }
+                  ],
+                  "attachements":[  
+                     {  
+                        "id":168,
+                        "createdBy":null,
+                        "createdDate":1544075951000,
+                        "modifiedBy":null,
+                        "modifiedDate":1544075951000,
+                        "status":"ACTIVE",
+                        "name":"pic.jpg",
+                        "fsId":"1544075928810",
+                        "description":null,
+                        "type":null,
+                        "size":1213803,
+                        "fileStatus":null
+                     },
+                     {  
+                        "id":170,
+                        "createdBy":null,
+                        "createdDate":1544076060000,
+                        "modifiedBy":null,
+                        "modifiedDate":1544076060000,
+                        "status":"ACTIVE",
+                        "name":"Screen Shot 2018-12-05 at 10.55.00 AM.png",
+                        "fsId":"1544076057565",
+                        "description":null,
+                        "type":null,
+                        "size":56270,
+                        "fileStatus":null
+                     }
+                  ],
+                  "comments":[  
+
+                  ],
+                  "progress":1,
+                  "type":"TASK",
+                  "appidentifier":null,
+                  "parent":0,
+                  "parentTitle":null,
+                  "activitylogs":[  
+
+                  ],
+                  "appIdentifier":{  
+                     "id":1,
+                     "name":"My-Day",
+                     "appType":"MYDAY"
+                  },
+                  "isSubTask":false,
+                  "modifiedFields":null,
+                  "taskCount":1
+               },
+               {  
+                  "id":"494",
+                  "createdBy":{  
+                     "id":"1608",
+                     "firstName":"Myday",
+                     "lastName":"1",
+                     "email":"myday1@drreddys.com",
+                     "department":"ITBPE",
+                     "profileLink":null
+                  },
+                  "createdDate":1544082719000,
+                  "modifiedBy":{  
+                     "id":"1608",
+                     "firstName":"Myday",
+                     "lastName":"1",
+                     "email":"myday1@drreddys.com",
+                     "department":"ITBPE",
+                     "profileLink":null
+                  },
+                  "modifiedDate":1544082719000,
+                  "status":null,
+                  "title":"test task creation from web app for thr task created in mobile a",
+                  "description":"",
+                  "priority":0,
+                  "startDate":1544515020000,
+                  "dueDate":1545811020000,
+                  "notes":"",
+                  "assignedTo":[  
+                     {  
+                        "id":"1612",
+                        "firstName":"Myday",
+                        "lastName":"2",
+                        "email":"myday2@drreddys.com",
+                        "department":"ITBPE",
+                        "profileLink":null
+                     },
+                     {  
+                        "id":"1608",
+                        "firstName":"Myday",
+                        "lastName":"1",
+                        "email":"myday1@drreddys.com",
+                        "department":"ITBPE",
+                        "profileLink":null
+                     }
+                  ],
+                  "attachements":[  
+
+                  ],
+                  "comments":[  
+
+                  ],
+                  "progress":1,
+                  "type":"PROJECT",
+                  "appidentifier":null,
+                  "parent":452,
+                  "parentTitle":"test projext.creatiin from.android testing.",
+                  "activitylogs":[  
+
+                  ],
+                  "appIdentifier":{  
+                     "id":1,
+                     "name":"My-Day",
+                     "appType":"MYDAY"
+                  },
+                  "isSubTask":false,
+                  "modifiedFields":null,
+                  "taskCount":0
+               }
+            ],
+                
+	"GetDeviceTypes": [{
+			"device_count": "2",
+			"device_type": "DST",
+			"devices": [{
+				"device_id": "24874772dec54326af4d79b3fd38e9d1",
+				"device_name": "DST"
+			},{
+				"device_id": "24874772dec54326af4d79b3fd38e9d2",
+				"device_name": "DST"
+			}]
+		},
+		{
+			"device_count": "1",
+			"device_type": "FCI5008",
+			"devices": [{
+				"device_id": "5ac169562b9249e58bedbc8c01cb523f",
+				"device_name": "Test Device"
+			}]
+		},
+		{
+			"device_count": "1",
+			"device_type": "KAITERRA",
+			"devices": [{
+				"device_id": "9b97e54ee6a74c4fbcd0aef3df5f03f8",
+				"device_name": "Kaiterra 3877"
+			}]
+		}
+	],
+	"getYearCalendarReport1": [{
+			"dates": [{
+				"date": "01-01-2018",
+				"status": true
+			}, {
+				"date": "02-01-2018",
+				"status": false
+			}, {
+				"date": "03-01-2018",
+				"status": true
+			}, {
+				"date": "04-01-2018",
+				"status": false
+			}, {
+				"date": "05-01-2018",
+				"status": true
+			}, {
+				"date": "06-01-2018",
+				"status": false
+			}, {
+				"date": "07-01-2018",
+				"status": true
+			}, {
+				"date": "08-01-2018",
+				"status": false
+			}, {
+				"date": "09-01-2018",
+				"status": true
+			}, {
+				"date": "10-01-2018",
+				"status": false
+			}, {
+				"date": "11-01-2018",
+				"status": true
+			}, {
+				"date": "12-01-2018",
+				"status": false
+			}, {
+				"date": "13-01-2018",
+				"status": true
+			}, {
+				"date": "14-01-2018",
+				"status": false
+			}, {
+				"date": "15-01-2018",
+				"status": true
+			}, {
+				"date": "16-01-2018",
+				"status": false
+			}, {
+				"date": "17-01-2018",
+				"status": true
+			}, {
+				"date": "18-01-2018",
+				"status": false
+			}, {
+				"date": "19-01-2018",
+				"status": true
+			}, {
+				"date": "20-01-2018",
+				"status": false
+			}, {
+				"date": "21-01-2018",
+				"status": true
+			}, {
+				"date": "22-01-2018",
+				"status": false
+			}, {
+				"date": "23-01-2018",
+				"status": true
+			}, {
+				"date": "24-01-2018",
+				"status": false
+			}, {
+				"date": "25-01-2018",
+				"status": true
+			}, {
+				"date": "26-01-2018",
+				"status": false
+			}, {
+				"date": "27-01-2018",
+				"status": true
+			}, {
+				"date": "28-01-2018",
+				"status": false
+			}, {
+				"date": "29-01-2018",
+				"status": true
+			}, {
+				"date": "30-01-2018",
+				"status": false
+			}, {
+				"date": "31-01-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}, {
+			"dates": [{
+				"date": "01-02-2018",
+				"status": true
+			}, {
+				"date": "02-02-2018",
+				"status": false
+			}, {
+				"date": "03-02-2018",
+				"status": true
+			}, {
+				"date": "04-02-2018",
+				"status": false
+			}, {
+				"date": "05-02-2018",
+				"status": true
+			}, {
+				"date": "06-02-2018",
+				"status": false
+			}, {
+				"date": "07-02-2018",
+				"status": true
+			}, {
+				"date": "08-02-2018",
+				"status": false
+			}, {
+				"date": "09-02-2018",
+				"status": true
+			}, {
+				"date": "10-02-2018",
+				"status": false
+			}, {
+				"date": "11-02-2018",
+				"status": true
+			}, {
+				"date": "12-02-2018",
+				"status": false
+			}, {
+				"date": "13-02-2018",
+				"status": true
+			}, {
+				"date": "14-02-2018",
+				"status": false
+			}, {
+				"date": "15-02-2018",
+				"status": true
+			}, {
+				"date": "16-02-2018",
+				"status": false
+			}, {
+				"date": "17-02-2018",
+				"status": true
+			}, {
+				"date": "18-02-2018",
+				"status": false
+			}, {
+				"date": "19-02-2018",
+				"status": true
+			}, {
+				"date": "20-02-2018",
+				"status": false
+			}, {
+				"date": "21-02-2018",
+				"status": true
+			}, {
+				"date": "22-02-2018",
+				"status": false
+			}, {
+				"date": "23-02-2018",
+				"status": true
+			}, {
+				"date": "24-02-2018",
+				"status": false
+			}, {
+				"date": "25-02-2018",
+				"status": true
+			}, {
+				"date": "26-02-2018",
+				"status": false
+			}, {
+				"date": "27-02-2018",
+				"status": true
+			}, {
+				"date": "28-02-2018",
+				"status": false
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}, {
+			"dates": [{
+				"date": "01-03-2018",
+				"status": true
+			}, {
+				"date": "22-03-2018",
+				"status": false
+			}, {
+				"date": "13-03-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}, {
+			"dates": [{
+				"date": "04-04-2018",
+				"status": true
+			}, {
+				"date": "09-04-2018",
+				"status": false
+			}, {
+				"date": "26-04-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		},
+		{
+			"dates": [{
+				"date": "04-05-2018",
+				"status": true
+			}, {
+				"date": "09-05-2018",
+				"status": false
+			}, {
+				"date": "26-05-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}, {
+			"dates": [{
+				"date": "02-06-2018",
+				"status": true
+			}, {
+				"date": "18-06-2018",
+				"status": false
+			}, {
+				"date": "10-06-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}, {
+			"dates": [{
+				"date": "05-07-2018",
+				"status": true
+			}, {
+				"date": "139-07-2018",
+				"status": false
+			}, {
+				"date": "28-07-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}, {
+			"dates": [{
+				"date": "03-08-2018",
+				"status": true
+			}, {
+				"date": "18-08-2018",
+				"status": false
+			}, {
+				"date": "27-08-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}, {
+			"dates": [{
+				"date": "11-09-2018",
+				"status": true
+			}, {
+				"date": "29-09-2018",
+				"status": false
+			}, {
+				"date": "20-09-2018",
+				"status": true
+			}],
+			"data": {
+				"failure": 35,
+				"missing": 10
+			}
+		}
+	]
+}
