@@ -1,1 +1,94 @@
 
+const gembaObj = {
+    id: 4,
+    label: 'Gemba',
+    name: "Gemba",
+    projects: [{
+        favourite: 1,
+        id: "1",
+        name: "FTO2 Quality Control",
+        size: 4,
+        type: "Gemba",
+        taskListTabs: [
+            {
+                count: 3,
+                label: 'pending',
+                tabId: 0,
+                taskList: [
+                    {
+                        "progess": "Pending",
+                        "id": "G-FTO2-00027-T-03",
+                        "started": "1582622351601",
+                        "dueDate": 1550832240000,
+                        "title": "Act 1",
+                        "createdBy": {
+                            "id": "P00002002",
+                            "name": "S Meera Saheb",
+                            "firstName": "S",
+                            "lastName": "Meera Saheb "
+                        },
+                        "assignedTo": [
+                            {
+                                "id": "P00062637",
+                                "name": "Jitendra Gothwal",
+                                "firstName": "Jitendra",
+                                "lastName": "Gothwal"
+                            }
+                        ],
+                        "tabs": {
+                            "about": {
+                                "description": "Act 1",
+                                "plant": "FTO2",
+                                "area": "Quality Control",
+                                "theme": "Computerized Systems",
+                                "room": "Finished product sample preparation area",
+                                "observation": "Obs1",
+                                "Gemba_DOer": "Obs1",
+                                "Area_Owner": "abc"
+                            }
+                        }
+                    },
+                    {
+                        "progess": "Pending",
+                        "id": "G-FTO2-00027-T-03",
+                        "started": "1582622351601",
+                        "dueDate": 1582890900000,
+                        "title": "Finished product sample preparation area",
+                        "createdBy": {
+                            "id": "P00002002",
+                            "name": "S Meera Saheb",
+                            "firstName": "S",
+                            "lastName": "Meera Saheb "
+                        },
+                        "assignedTo": [
+                            {
+                                "id": "P00062637",
+                                "name": "Jitendra Gothwal",
+                                "firstName": "Jitendra",
+                                "lastName": "Gothwal"
+                            }
+                        ],
+                        "tabs": {
+                            "about": {
+                                "description": "Act 1",
+                                "plant": "FTO2",
+                                "area": "Quality Control",
+                                "theme": "Computerized Systems",
+                                "room": "Finished product sample preparation area",
+                                "observation": "Obs1",
+                                "Gemba_DOer": "Obs1",
+                                "Area_Owner": "abc"
+                            }
+                        }
+                    },
+                ]
+            }, {
+                count: 1,
+                label: 'Resolved',
+                tabId: 1,
+                taskList: [
+                ]
+            }
+        ]
+    }],
+}
